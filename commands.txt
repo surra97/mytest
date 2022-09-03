@@ -1,0 +1,23 @@
+git add .
+
+git commit -m "abood" 
+
+git push origin main 
+
+
+
+
+
+
+
+
+
+mkdir - new folder 
+
+cd - change dirctory 
+
+dir - list all files similar to ls in mac 
+
+cd .. - go back 
+
+code . - open the vs code 
